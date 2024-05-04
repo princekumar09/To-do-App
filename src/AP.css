@@ -1,0 +1,55 @@
+h1{
+
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    font-stretch: expanded;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+    background-color: blanchedalmond;
+    color: blue;
+
+
+    
+    
+}
+input{
+    width: 70%;
+    background-color:whitesmoke;
+    color-scheme: 100%;
+    
+}
+.items-container{
+    text-align: left;
+    text-align: right;
+}
+.kg-row{
+    margin: 10px 5px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.kg-button{
+ min-width: 80px;
+ margin: 2px;
+}
+.btn-success{
+    min-width: 80px;
+    font-size: 45px;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+.btn-danger{
+    min-width: 80px;
+    font-size: 45px;
+    margin: 5px;
+    margin-bottom: 20px
+
+}
+.kg-RAW{
+    font-weight: 700;
+    font-size: 45px
+}
+
+
+
